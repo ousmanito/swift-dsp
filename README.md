@@ -1,2 +1,2 @@
-# swift-dsp
-Prise en main du langage Swift
+# swift-eval
+Implémentation de la fonction *eval* pour les opérations arithmétiques usuelles.
